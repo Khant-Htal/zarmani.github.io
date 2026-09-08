@@ -131,7 +131,7 @@
       </a>
 
       <!-- TikTok Link -->
-      <a class="btn btn-social" href="https://tiktok.com/@YOUR_HANDLE" target="_blank" rel="noopener">
+      <a class="btn btn-social" href="https://www.tiktok.com/@zarmani003" target="_blank" rel="noopener">
         📱 Watch on TikTok
       </a>
     </div>
